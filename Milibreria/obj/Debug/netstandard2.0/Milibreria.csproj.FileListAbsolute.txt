@@ -1,0 +1,8 @@
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\bin\Debug\netstandard2.0\Milibreria.deps.json
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\bin\Debug\netstandard2.0\Milibreria.dll
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\bin\Debug\netstandard2.0\Milibreria.pdb
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\obj\Debug\netstandard2.0\Milibreria.csprojAssemblyReference.cache
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\obj\Debug\netstandard2.0\Milibreria.AssemblyInfoInputs.cache
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\obj\Debug\netstandard2.0\Milibreria.AssemblyInfo.cs
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\obj\Debug\netstandard2.0\Milibreria.dll
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Milibreria\obj\Debug\netstandard2.0\Milibreria.pdb

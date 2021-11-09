@@ -1,0 +1,5 @@
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Libreria\bin\Debug\Libreria.dll
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Libreria\obj\Debug\Libreria.dll
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Oscar Escarate\source\repos\Impresoras3DR\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
